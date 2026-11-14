@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Order-Processing-Fulfillment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Order-Processing-Fulfillment?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Order-Processing-Fulfillment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Order-Processing-Fulfillment?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Order-Processing-Fulfillment/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Order-Processing-Fulfillment?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Order-Processing-Fulfillment/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-CC0--1.0-green?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Mentioned in Awesome"/></a>
@@ -70,7 +70,7 @@ Commercial, cloud-hosted Order Processing, WMS, and Multi-Channel Fulfillment pl
 
 Explore production-ready open-source Order Management Systems (OMS), Warehouse Management Systems (WMS), and modern logistics operating systems. Sorted in descending order by GitHub stargazers count.
 
-### InvenTree [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)
+### InvenTree [![GitHub_Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)
 * **Repository:** [inventree/InvenTree](https://github.com/inventree/InvenTree) 📦
 * **Stack:** Python / Django / React / PostgreSQL / Redis | **License:** MIT
 * **Focus:** Open-Source Inventory & Order Management System
@@ -79,7 +79,7 @@ Explore production-ready open-source Order Management Systems (OMS), Warehouse M
 
 ---
 
-### Fleetbase [![GitHub stars](https://img.shields.io/github/stars/fleetbase/fleetbase?style=social&color=white)](https://github.com/fleetbase/fleetbase/stargazers)
+### Fleetbase [![GitHub_Stars](https://img.shields.io/github/stars/fleetbase/fleetbase?style=social&color=white)](https://github.com/fleetbase/fleetbase/stargazers)
 * **Repository:** [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) 🚚
 * **Stack:** JavaScript / PHP / MySQL / Ember.js | **License:** AGPL-3.0
 * **Focus:** Modular Logistics and Supply Chain Operating System (LSOS)
@@ -88,7 +88,7 @@ Explore production-ready open-source Order Management Systems (OMS), Warehouse M
 
 ---
 
-### GreaterWMS [![GitHub stars](https://img.shields.io/github/stars/GreaterWMS/GreaterWMS?style=social&color=white)](https://github.com/GreaterWMS/GreaterWMS/stargazers)
+### GreaterWMS [![GitHub_Stars](https://img.shields.io/github/stars/GreaterWMS/GreaterWMS?style=social&color=white)](https://github.com/GreaterWMS/GreaterWMS/stargazers)
 * **Repository:** [GreaterWMS/GreaterWMS](https://github.com/GreaterWMS/GreaterWMS) 🏭
 * **Stack:** Python / Django / Vue.js / Quasar / Android / iOS | **License:** Apache-2.0
 * **Focus:** Ford AP Supply Chain Warehousing & Space Sharing WMS
@@ -97,7 +97,7 @@ Explore production-ready open-source Order Management Systems (OMS), Warehouse M
 
 ---
 
-### ModernWMS [![GitHub stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=social&color=white)](https://github.com/fjykTec/ModernWMS/stargazers)
+### ModernWMS [![GitHub_Stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=social&color=white)](https://github.com/fjykTec/ModernWMS/stargazers)
 * **Repository:** [fjykTec/ModernWMS](https://github.com/fjykTec/ModernWMS) 📋
 * **Stack:** .NET Core / Vue.js / TypeScript / SQL Server / MySQL | **License:** MIT
 * **Focus:** Cross-Platform Warehouse Management for SMEs
@@ -106,7 +106,7 @@ Explore production-ready open-source Order Management Systems (OMS), Warehouse M
 
 ---
 
-### OpenShip [![GitHub stars](https://img.shields.io/github/stars/openshiporg/openship?style=social&color=white)](https://github.com/openshiporg/openship/stargazers)
+### OpenShip [![GitHub_Stars](https://img.shields.io/github/stars/openshiporg/openship?style=social&color=white)](https://github.com/openshiporg/openship/stargazers)
 * **Repository:** [openshiporg/openship](https://github.com/openshiporg/openship) 🔄
 * **Stack:** Node.js / Next.js / Keystone.js / GraphQL | **License:** Apache-2.0
 * **Focus:** Open-Source Multichannel Order Router & Fulfillment Automation
@@ -115,7 +115,7 @@ Explore production-ready open-source Order Management Systems (OMS), Warehouse M
 
 ---
 
-### OpenBoxes [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)
+### OpenBoxes [![GitHub_Stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)
 * **Repository:** [openboxes/openboxes](https://github.com/openboxes/openboxes) 🏥
 * **Stack:** Java / Groovy / Grails / MySQL | **License:** EPL-1.0
 * **Focus:** Healthcare & Humanitarian Facility Supply Chain Management
@@ -124,7 +124,7 @@ Explore production-ready open-source Order Management Systems (OMS), Warehouse M
 
 ---
 
-### org.openwms [![GitHub stars](https://img.shields.io/github/stars/openwms/org.openwms?style=social&color=white)](https://github.com/openwms/org.openwms/stargazers)
+### org.openwms [![GitHub_Stars](https://img.shields.io/github/stars/openwms/org.openwms?style=social&color=white)](https://github.com/openwms/org.openwms/stargazers)
 * **Repository:** [openwms/org.openwms](https://github.com/openwms/org.openwms) 🏗️
 * **Stack:** Java / Spring Boot / Microservices / Angular | **License:** Apache-2.0
 * **Focus:** Distributed Modular Warehouse Management & Material Flow Control
@@ -133,7 +133,7 @@ Explore production-ready open-source Order Management Systems (OMS), Warehouse M
 
 ---
 
-### Sentry WMS [![GitHub stars](https://img.shields.io/github/stars/hightower-systems/sentry-wms?style=social&color=white)](https://github.com/hightower-systems/sentry-wms/stargazers)
+### Sentry WMS [![GitHub_Stars](https://img.shields.io/github/stars/hightower-systems/sentry-wms?style=social&color=white)](https://github.com/hightower-systems/sentry-wms/stargazers)
 * **Repository:** [hightower-systems/sentry-wms](https://github.com/hightower-systems/sentry-wms) 🔍
 * **Stack:** Node.js / Express / REST API | **License:** MIT
 * **Focus:** API-First E-Commerce Warehouse Operations Engine
@@ -142,7 +142,7 @@ Explore production-ready open-source Order Management Systems (OMS), Warehouse M
 
 ---
 
-### OpenOMS [![GitHub stars](https://img.shields.io/github/stars/openoms-org/openoms?style=social&color=white)](https://github.com/openoms-org/openoms/stargazers)
+### OpenOMS [![GitHub_Stars](https://img.shields.io/github/stars/openoms-org/openoms?style=social&color=white)](https://github.com/openoms-org/openoms/stargazers)
 * **Repository:** [openoms-org/openoms](https://github.com/openoms-org/openoms) 🌐
 * **Stack:** Go / TypeScript / PostgreSQL / Redis | **License:** ELv2 / MIT
 * **Focus:** High-Performance Multi-Channel E-Commerce OMS
@@ -151,7 +151,7 @@ Explore production-ready open-source Order Management Systems (OMS), Warehouse M
 
 ---
 
-### OverSeek [![GitHub stars](https://img.shields.io/github/stars/MerlinStacks/overseek?style=social&color=white)](https://github.com/MerlinStacks/overseek/stargazers)
+### OverSeek [![GitHub_Stars](https://img.shields.io/github/stars/MerlinStacks/overseek?style=social&color=white)](https://github.com/MerlinStacks/overseek/stargazers)
 * **Repository:** [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) 🧭
 * **Stack:** Node.js / TypeScript / PostgreSQL / Redis / Docker | **License:** MIT
 * **Focus:** Self-Hosted Operations & Order Fulfillment Hub for WooCommerce
@@ -160,7 +160,7 @@ Explore production-ready open-source Order Management Systems (OMS), Warehouse M
 
 ---
 
-### KubeRiva OMS [![GitHub stars](https://img.shields.io/github/stars/KubeRiva/OMS?style=social&color=white)](https://github.com/KubeRiva/OMS/stargazers)
+### KubeRiva OMS [![GitHub_Stars](https://img.shields.io/github/stars/KubeRiva/OMS?style=social&color=white)](https://github.com/KubeRiva/OMS/stargazers)
 * **Repository:** [KubeRiva/OMS](https://github.com/KubeRiva/OMS) 🤖
 * **Stack:** Python / FastAPI / PostgreSQL / MongoDB / Redis / Elasticsearch | **License:** MIT
 * **Focus:** AI-Native Order Sourcing & Distributed Fulfillment OMS
@@ -171,7 +171,7 @@ Explore production-ready open-source Order Management Systems (OMS), Warehouse M
 
 ## 📊 Feature Comparison Matrix
 
-| Software / Project 💻 | Type 🏷️ | GitHub Stars ⭐ | Primary License ⚖️ | Tech Stack 🛠️ | OMS Focus 📦 | WMS Focus 🏭 | Self-Hosted 🏠 | Target Use Case 🎯 |
+| Software / Project 💻 | Type 🏷️ | GitHub_Stars ⭐ | Primary License ⚖️ | Tech Stack 🛠️ | OMS Focus 📦 | WMS Focus 🏭 | Self-Hosted 🏠 | Target Use Case 🎯 |
 | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
 | **[InvenTree](https://github.com/inventree/InvenTree)** | Open Source | 7,857+ | MIT | Python / Django / React | ✅ | ✅ | ✅ | Granular part & assembly inventory + sales orders |
 | **[Fleetbase](https://github.com/fleetbase/fleetbase)** | Open Source | 4,643+ | AGPL-3.0 | JS / PHP / MySQL | ✅ | ⚠️ Delivery | ✅ | Last-mile delivery, fleet routing & WooCommerce dispatch |
@@ -194,8 +194,8 @@ Contributions, feature suggestions, and new additions are always welcome!
 If you know of an awesome open-source Order Processing, WMS, or Fulfillment system that belongs in this repository:
 1. Fork this repository 🍴
 2. Create a new branch (`git checkout -b feature/add-new-project`) 🌿
-3. Add the project with its name, GitHub repository link, star badge, tech stack, license, and a concise 1–2 sentence description 📝
-4. Ensure the list remains sorted by GitHub stars in descending order 📊
+3. Add the project with its name, GitHub repository link, Stars_Badge, tech stack, license, and a concise 1–2 sentence description 📝
+4. Ensure the list remains sorted by GitHub_Stars in descending order 📊
 5. Commit your changes and open a Pull Request 🚀
 
 ---
