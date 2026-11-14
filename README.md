@@ -9,7 +9,8 @@
   <a href="https://github.com/ishandutta2007/Awesome-Order-Processing-Fulfillment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Order-Processing-Fulfillment?style=flat-square&color=gold" alt="GitHub Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Order-Processing-Fulfillment/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Order-Processing-Fulfillment?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Order-Processing-Fulfillment/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-CC0--1.0-green?style=flat-square" alt="License"/></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Mentioned in Awesome"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Mentioned in Awesome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -37,6 +38,8 @@
   - [KubeRiva OMS](#kuberiva-oms)
 - [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -194,6 +197,24 @@ If you know of an awesome open-source Order Processing, WMS, or Fulfillment syst
 3. Add the project with its name, GitHub repository link, star badge, tech stack, license, and a concise 1–2 sentence description 📝
 4. Ensure the list remains sorted by GitHub stars in descending order 📊
 5. Commit your changes and open a Pull Request 🚀
+
+---
+
+## 💖 Support
+
+Thank you for exploring this curated directory! If you found this repository helpful, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others discover it
+- 🍴 **Fork and contribute** by adding new tools, updating documentation, or submitting PRs
+- 📢 **Share** this list with colleagues, engineering teams, and founders
+- ☕ **Buy a coffee & sponsor** continuous open-source maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+Your support keeps this project active, comprehensive, and up-to-date!
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Order-Processing-Fulfillment&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Order-Processing-Fulfillment&type=date&legend=top-left)
 
 ---
 
